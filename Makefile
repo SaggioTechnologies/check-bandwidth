@@ -4,6 +4,7 @@ default: help
 
 help:
 	@echo Open 4 bash terminals and run one in each one
+	@echo Remember: ping might have to be run as admin (an elevated command prompt)
 	@echo make ping-google
 	@echo make ping-softlayer
 	@echo make download-large-file
