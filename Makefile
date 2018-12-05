@@ -4,7 +4,7 @@ default: help
 
 help:
 	@echo make ping-google
-	@echo make ping-speedtest
+	@echo make ping-softlayer
 	@echo make download-large-file
 	@echo make speedtest
 
