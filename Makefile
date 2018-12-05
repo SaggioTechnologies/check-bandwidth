@@ -5,6 +5,8 @@ default: help
 help:
 	@echo make ping-google
 	@echo make ping-speedtest
+	@echo make download-large-file
+	@echo make speedtest
 
 ping-google:
 	@ping 8.8.8.8
